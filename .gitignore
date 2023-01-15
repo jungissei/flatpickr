@@ -2,5 +2,12 @@
 node_modules
 index.html
 coverage
-dist
+/dist/*
+!/dist/flatpickr.css
+!/dist/flatpickr.min.css
+!/dist/flatpickr.js
+!/dist/flatpickr.min.js
+!/dist/ie.css
+!/dist/l10n/ja.js
+
 *.tsbuildinfo
